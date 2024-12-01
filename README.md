@@ -4,6 +4,8 @@ The "Tr" file:
     The second Loop :
         The While loop create a loop until the x == y
 
+
+
 The "year" file :
         A  Python program that : 
             - Accepts a year as input from the user.
@@ -11,6 +13,9 @@ The "year" file :
             above.
             - Prints the result as: "YYYY is a leap year" or "YYYY is not a leap
             year".
+
+
+            
 The "fizz_buzz" file :
         A program that plays the "Fizz Buzz" game. The goal is to print numbers from 1 to a given number, replacing certain numbers with the words "Fizz," "Buzz," or "FizzBuzz" based on the rules below.
             Rules:
